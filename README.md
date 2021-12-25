@@ -6,3 +6,7 @@ ui file created by Qt Designer
 see pic1.jpg and pic2.jpg
 
 technology: Python - Qt5 - CSS
+
+store1 - stote2 - store3 : dialog box
+
+# Old Project
